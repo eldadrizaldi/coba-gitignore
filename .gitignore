@@ -1,0 +1,6 @@
+# File config tidak akan dibawa oleh git
+config.txt
+# Folder data tidak akan dibawa oleh git
+data/ 
+# Semua file bertipe .exe tidak akan dibawa oleh git
+*.exe 
